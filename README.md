@@ -13,19 +13,19 @@
 
 __[moey! @ AppStore](https://apps.apple.com/pt/app/moey-mobile-banking/id1462060959)__
 
-![Image](https://github.com/ricardopsantos/ricardopsantos/appstore.moey.png)
+![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/appstore.moey.png)
 
 __[CityPoints Cascais @ AppStore](https://apps.apple.com/pt/app/citypoints-cascais/id1287076258)__
 
-![Image](https://github.com/ricardopsantos/ricardopsantos/appstore.citypoints.png)
+![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/appstore.citypoints.png)
 
 ## Apps | Hobbie/Freelancing
 
 ### [AppStore](https://apps.apple.com/pt/developer/ricardo-santos/id1039475699)
 
-![Image](https://github.com/ricardopsantos/ricardopsantos/appstore.ricardo.png)
+![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/appstore.ricardo.png)
 
 ### [Google Play](https://play.google.com/store/apps/developer?id=Ricardo+Jorge+Patricio+dos+Santos)
 
-![Image](https://github.com/ricardopsantos/ricardopsantos/googleplay.ricardo.png)
+![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/googleplay.ricardo.png)
 
