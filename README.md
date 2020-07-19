@@ -1,6 +1,9 @@
 <p align="center">
+
 #### _"Every line of code represents and ethical and moral decision"_
+
 </p>
+
 ---
 
 # Social Media
