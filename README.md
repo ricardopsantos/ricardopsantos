@@ -10,6 +10,9 @@
 * [AppStore](https://apps.apple.com/pt/developer/ricardo-santos/id1039475699)
 * [Email](mailto:rjps.dev@gmail.com)
 
+# Articles
+* [Avoiding merge conflicts with XcodeGen](https://ricardojpsantos.medium.com/avoiding-merge-conflicts-with-xcodegen-a0e2a1647bcb)
+
 # Apps | Professional 
 
 __[moey! @ AppStore](https://apps.apple.com/pt/app/moey-mobile-banking/id1462060959)__
