@@ -11,9 +11,10 @@
 * [Email](mailto:rjps.dev@gmail.com)
 
 # Articles
-* [Avoiding merge conflicts with XcodeGen](https://ricardojpsantos.medium.com/avoiding-merge-conflicts-with-xcodegen-a0e2a1647bcb)
-* [Creating and deploying a Vapor (Swift) web app into Heroku cloud platform — Part 1](https://ricardojpsantos.medium.com/deploying-a-vapor-swift-web-app-into-heroku-cloud-platform-part-1-2-69de939ce4d8)
+* [Building and end-to-end encryption framework in Swift](https://ricardojpsantos.medium.com/building-and-end-to-end-encryption-framework-in-swift-cff7c8909130)
 * [Creating and deploying a Vapor (Swift) web app into Heroku cloud platform — Part 2](https://ricardojpsantos.medium.com/creating-and-deploying-a-vapor-swift-web-app-into-heroku-cloud-platform-part-2-2-da558a5779b7)
+* [Creating and deploying a Vapor (Swift) web app into Heroku cloud platform — Part 1](https://ricardojpsantos.medium.com/deploying-a-vapor-swift-web-app-into-heroku-cloud-platform-part-1-2-69de939ce4d8)
+* [Avoiding merge conflicts with XcodeGen](https://ricardojpsantos.medium.com/avoiding-merge-conflicts-with-xcodegen-a0e2a1647bcb)
 
 # Apps | Professional 
 
