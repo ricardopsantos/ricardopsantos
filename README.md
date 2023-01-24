@@ -11,6 +11,8 @@
 * [Email](mailto:rjps.dev@gmail.com)
 
 # Articles
+* [Enhancing mobile app user experience through efficient caching in Swift
+](https://ricardojpsantos.medium.com/enhancing-mobile-app-user-experience-through-efficient-caching-in-swift-c970554eab84)
 * [Using SwiftLint to decrease code smell on Xcode](https://ricardojpsantos.medium.com/using-swiftlint-to-decrease-code-smell-on-xcode-e1dd49258f22)
 * [Adding a Design Language to your Xcode project](https://ricardojpsantos.medium.com/adding-a-design-language-to-your-xcode-project-fef5be39bef7)
 * [Building and end-to-end encryption framework in Swift](https://ricardojpsantos.medium.com/building-and-end-to-end-encryption-framework-in-swift-cff7c8909130)
