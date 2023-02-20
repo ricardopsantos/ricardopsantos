@@ -22,7 +22,7 @@
 
 # Apps | Professional 
 
-__[Hello smart @ AppStore]([https://apps.apple.com/pt/app/moey-mobile-banking/id1462060959](https://apps.apple.com/de/app/hello-smart/id6443878915))__
+__[Hello smart @ AppStore](https://apps.apple.com/de/app/hello-smart/id6443878915)__
 
 ![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/appstore.smart.png)
 
