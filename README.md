@@ -38,7 +38,7 @@ __[CityPoints Cascais @ AppStore](https://apps.apple.com/pt/app/citypoints-casca
 
 ### [AppStore](https://apps.apple.com/pt/developer/ricardo-santos/id1039475699)
 
-![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/appstore.ricardo.png)
+![Image](https://github.com/ricardopsantos/ricardopsantos/blob/master/images/appstore.ricardo.2024.png)
 
 ### [Google Play](https://play.google.com/store/apps/developer?id=Ricardo+Jorge+Patricio+dos+Santos)
 
