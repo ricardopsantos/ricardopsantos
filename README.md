@@ -8,7 +8,7 @@
 * [Medium](https://ricardojpsantos.medium.com/)
 * [GooglePlay](https://play.google.com/store/apps/developer?id=Ricardo+Jorge+Patricio+dos+Santos)
 * [AppStore](https://apps.apple.com/pt/developer/ricardo-santos/id1039475699)
-* [Email](mailto:rjps.dev@gmail.com)
+* [Email](mailto:ricardopsantos@ik.me)
 
 # Articles
 * [Enhancing mobile app user experience through efficient caching in Swift
