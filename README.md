@@ -11,7 +11,7 @@
 * [Email](mailto:ricardopsantos@ik.me)
 
 # Articles
-* [https://ricardojpsantos.medium.com/the-index-that-cant-lie-how-we-gave-claude-code-a-memory-that-maintains-itself-614340266577](The Index That Can’t Lie: How We Gave Claude Code a Memory That Maintains Itself (Part 1/2))
+* [The Index That Can’t Lie: How We Gave Claude Code a Memory That Maintains Itself - Part 1 of 2](https://ricardojpsantos.medium.com/the-index-that-cant-lie-how-we-gave-claude-code-a-memory-that-maintains-itself-614340266577)
 * [Enhancing mobile app user experience through efficient caching in Swift
 ](https://ricardojpsantos.medium.com/enhancing-mobile-app-user-experience-through-efficient-caching-in-swift-c970554eab84)
 * [Using SwiftLint to decrease code smell on Xcode](https://ricardojpsantos.medium.com/using-swiftlint-to-decrease-code-smell-on-xcode-e1dd49258f22)
