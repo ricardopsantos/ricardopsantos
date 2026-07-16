@@ -10,7 +10,7 @@
 * [AppStore](https://apps.apple.com/pt/developer/ricardo-santos/id1039475699)
 * [Email](mailto:ricardopsantos@ik.me)
 
-# (Aurora · Coding Agent)[https://ricardopsantos.org/aurora]
+# [Aurora · Coding Agent](https://ricardopsantos.org/aurora)
 
 A micro terminal coding agent built from scratch in Python — multi-provider (Claude, OpenRouter, local llama.cpp) from one model picker, an approval gate you can steer instead of just deny, automatic secret detection in prompts and tool output, checkpoints with rewind, and a full-screen TUI.
 
