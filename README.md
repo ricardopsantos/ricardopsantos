@@ -10,6 +10,10 @@
 * [AppStore](https://apps.apple.com/pt/developer/ricardo-santos/id1039475699)
 * [Email](mailto:ricardopsantos@ik.me)
 
+# (Aurora · Coding Agent)[https://ricardopsantos.org/aurora]
+
+A micro terminal coding agent built from scratch in Python — multi-provider (Claude, OpenRouter, local llama.cpp) from one model picker, an approval gate you can steer instead of just deny, automatic secret detection in prompts and tool output, checkpoints with rewind, and a full-screen TUI.
+
 # Articles
 * [The Index That Can’t Lie: How We Gave Claude Code a Memory That Maintains Itself - Part 1 of 2](https://ricardojpsantos.medium.com/the-index-that-cant-lie-how-we-gave-claude-code-a-memory-that-maintains-itself-614340266577)
 * [Enhancing mobile app user experience through efficient caching in Swift
