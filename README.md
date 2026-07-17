@@ -15,7 +15,7 @@
 A micro terminal coding agent built from scratch in Python — multi-provider (Claude, OpenRouter, local llama.cpp) from one model picker, an approval gate you can steer instead of just deny, automatic secret detection in prompts and tool output, checkpoints with rewind, and a full-screen TUI.
 
 # Articles
-* [The Index That Can’t Lie: How We Made an Agent’s Memory Earn Its Own Promotions - Part 2 of 2]([https://medium.com/p/a6ef179cf898?postPublishedType=initial](https://ricardojpsantos.medium.com/the-index-that-cant-lie-how-we-made-an-agent-s-memory-earn-its-own-promotions-part-2-2-a6ef179cf898?postPublishedType=initial)
+* [The Index That Can’t Lie: How We Made an Agent’s Memory Earn Its Own Promotions - Part 2 of 2](https://medium.com/p/a6ef179cf898?postPublishedType=initial](https://ricardojpsantos.medium.com/the-index-that-cant-lie-how-we-made-an-agent-s-memory-earn-its-own-promotions-part-2-2-a6ef179cf898?postPublishedType=initial)
 * [The Index That Can’t Lie: How We Gave Claude Code a Memory That Maintains Itself - Part 1 of 2](https://ricardojpsantos.medium.com/the-index-that-cant-lie-how-we-gave-claude-code-a-memory-that-maintains-itself-614340266577)
 * [Enhancing mobile app user experience through efficient caching in Swift
 ](https://ricardojpsantos.medium.com/enhancing-mobile-app-user-experience-through-efficient-caching-in-swift-c970554eab84)
